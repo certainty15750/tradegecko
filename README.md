@@ -206,4 +206,3 @@ Here I described way to deploy to VPS server manually
 ### Contact Me
 + Name: Jason Halog
 + Email: certainty15750@yahoo.com
-+ Profile: https://www.upwork.com/o/profiles/users/~0157582bfc2c74c01c/
