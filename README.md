@@ -1,8 +1,7 @@
 # RERADME #
 
-## Tradegecko
-
-This project developed with Python3.65+ Django for Backend and Angular7.0 for Frontend
+## Inventory management SaaS using Django & Angular
+This is inventory management SaaS which provide below services 
 + Dashboard
 + User management
 + Product(variant) management
@@ -10,6 +9,8 @@ This project developed with Python3.65+ Django for Backend and Angular7.0 for Fr
 + Media management using cloudinary
 + Order management
 + Sync products and other info with shopify, Magento, zudello, zapier, amazon, quickbooks
+
+This project developed with Python3.65+ Django for Backend and Angular7.0 for Frontend
 
 #### Preview
 ![Relevance feedback image](https://github.com/certainty15750/tradegecko/blob/master/Screenshots/img1.PNG)
